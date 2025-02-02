@@ -1,0 +1,3 @@
+# Division by Zero in C++
+This repository demonstrates a common error in C++: division by zero. The `bug.cpp` file contains the erroneous code, and `bugSolution.cpp` provides a corrected version.
+The original code attempts to divide an integer by zero, leading to undefined behavior and a program crash. The solution demonstrates how to handle potential division by zero using an if-statement to check for the divisor being zero.
